@@ -1,0 +1,36 @@
+.text-updater-node {
+    height: 30px;
+    border: 1px solid #eee;
+    padding: 5px;
+    border-radius: 5px;
+    background: white;
+}
+
+.text-updater-node label {
+    /* display: block; */
+    color: #777;
+    font-size: 12px;
+}
+
+.headerdiv {
+    border: 5px solid black;
+    height: 40px;
+
+}
+
+
+.btn-add {
+    position: absolute;
+    top: 10px;
+    left: 50px;
+}
+
+.formclass {
+    position: absolute;
+    top: 10px;
+    left: 200px;
+}
+
+.submitbtn {
+    margin-left: 10px;
+}
